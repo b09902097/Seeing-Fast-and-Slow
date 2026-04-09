@@ -10,8 +10,6 @@
 
 <p align="center">
   <img src="assets/teaser.gif" width="80%">
-    Your browser does not support the video tag.
-  </img>
 </p>
 
 This project explores how to **perceive and manipulate the flow of time** in videos through four complementary tasks:
