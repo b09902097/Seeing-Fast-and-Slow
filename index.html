@@ -1187,5 +1187,16 @@
 
     <!-- End of Statcounter Code -->
 
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const video = document.getElementById('tree');
+    if (video) {
+      video.addEventListener('loadeddata', function() {
+        video.style.background = 'none';
+      });
+    }
+  });
+</script>
+
   </body>
   </html>

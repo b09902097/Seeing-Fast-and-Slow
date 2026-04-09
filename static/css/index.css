@@ -843,9 +843,9 @@ a:focus {
   width: 100%;
   display: block;
   background: #444;
-  max-height: 420px;
+  max-height: 430px;
   margin: 25px auto 5px;
-  object-fit: cover;
+  object-fit: contain;
   /* object-position: 50% 50%; */
 }
 
