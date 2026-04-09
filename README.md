@@ -9,9 +9,9 @@
 ## Overview
 
 <p align="center">
-  <video src="assets/teaser.mp4" autoplay muted loop width="80%">
+  <img src="assets/teaser.gif" width="80%">
     Your browser does not support the video tag.
-  </video>
+  </img>
 </p>
 
 This project explores how to **perceive and manipulate the flow of time** in videos through four complementary tasks:
