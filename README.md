@@ -25,7 +25,7 @@ We also introduce **SloMo-44K**, the largest generic slow-motion video dataset t
 
 ## 📋 TODO
 
-- [ ] Release SloMo-44K
+- [x] Release SloMo-44K
 - [ ] Speed-change Detection Code
 - [ ] Video Speed Estimation Code
 - [ ] Extreme Temporal Super-resolution Code
