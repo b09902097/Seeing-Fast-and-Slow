@@ -3,7 +3,7 @@
 <p align="center">
   <a href=""><b>Paper (Coming soon)</b></a> &nbsp;|&nbsp;
   <a href="https://b09902097.github.io/Seeing-Fast-and-Slow/"><b>Project Page</b></a> &nbsp;|&nbsp;
-  <a href=""><b>Dataset (Coming soon)</b></a>
+  <a href="https://huggingface.co/datasets/james020619/SloMo-44K/tree/main"><b>Dataset</b></a>
 </p>
 
 ## Overview
